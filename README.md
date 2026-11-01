@@ -8,7 +8,7 @@
 ![Offline](https://img.shields.io/badge/runtime-offline-success)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-[**Launch the simulator**](HYPERION-20_Standalone_Simulator.html) · [**Download the HTML**](https://raw.githubusercontent.com/kai9987kai/HYPERION-20/main/HYPERION-20_Standalone_Simulator.html) · [**Read the research paper**](Hyperion20_Paper.pdf) · [**Community**](https://github.com/kai9987kai/HYPERION-20/community)
+[**View the simulator source**](HYPERION-20_Standalone_Simulator.html) · [**Download the HTML**](https://raw.githubusercontent.com/kai9987kai/HYPERION-20/main/HYPERION-20_Standalone_Simulator.html) · [**Read the research paper**](Hyperion20_Paper.pdf) · [**Community**](https://github.com/kai9987kai/HYPERION-20/community)
 
 > [!IMPORTANT]
 > **This is an engineering *simulation*, not a physical processor emulator or a working supercomputer.** All 20 devices are software models executed in JavaScript on the host computer. Performance, power, temperature, networking, failure and scheduling values are **illustrative synthetic parameters**, not measurements of NVIDIA, Intel, Cerebras, IBM, Groq, Google or other hardware. The quantum and biological examples do not execute quantum programs or living-cell experiments.
